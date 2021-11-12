@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jhipster.empresa",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "microservice",
+    "baseName": "empresa",
+    "packageName": "com.jhipster.empresa",
+    "packageFolder": "com/jhipster/empresa",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MmVmYzJjN2Y5YTZjYWFlZmVmODBlMWJjN2FkZGJkNTM3Nzg4NmY5NzViMTM5ZTM2N2UwNThmOWZmNjFmMjUxMjMyYzgyZDk5ZGQ0NzEyM2JkMDA3YWM4YTg0ZTdiZWRjODIxNWM3YjVkZmJkMmZlNWUwZGVkZjEwMmI1MDBmYWU=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1636675511113,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "es",
+    "languages": ["es", "en"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
